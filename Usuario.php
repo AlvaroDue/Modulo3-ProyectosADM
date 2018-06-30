@@ -28,9 +28,3 @@ class Usuario{
 	}
 }
 
-// Para obtener 
-public function ejemplo(){
-	$u = new Usuario("Juan", "1234");
-	$u->getNombre();
-}
-
